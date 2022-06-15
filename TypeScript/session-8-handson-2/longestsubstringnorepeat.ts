@@ -38,7 +38,7 @@ function longestUniqueSubsttr(str)
 }
 
 // Driver code
-	var str = "geeksforgeeks";
+	var str = "getthedemoquestion";
 	document.write("The input string is " + str);
 
 	var len = longestUniqueSubsttr(str);
